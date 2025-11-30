@@ -1,30 +1,21 @@
 [
 	{
-		"key": "dbln",
-		"value": "%7B%2261551992293843%22%3A%22fkbPcexb%22%7D",
-		"domain": "facebook.com",
-		"path": "/login/device-based/",
-		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
-	},
-	{
 		"key": "datr",
-		"value": "njYraa_HS0tfYVG9JIzPWw0I",
+		"value": "O40saXc3Q-DRBVtu98vxptQx",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
+		"creation": "2025-11-30T18:34:25.436Z",
+		"lastAccessed": "2025-11-30T18:34:25.436Z"
 	},
 	{
-		"key": "fr",
-		"value": "1fI9BtTKF1Xe1pXol.AWdrEOIYNg2rF2OgjYC2gnL6OhkdZkQqsnVfEVLkVv8b1oiCLuk.BpLIhj..AAA.0.0.BpLIkk.AWcDlsrx1zD5NOu3LKQRkAJ6KZ0",
+		"key": "sb",
+		"value": "O40saZrkIbot5s6pykVwe-3K",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
+		"creation": "2025-11-30T18:34:25.436Z",
+		"lastAccessed": "2025-11-30T18:34:25.436Z"
 	},
 	{
 		"key": "ps_l",
@@ -32,8 +23,8 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
+		"creation": "2025-11-30T18:34:25.436Z",
+		"lastAccessed": "2025-11-30T18:34:25.436Z"
 	},
 	{
 		"key": "ps_n",
@@ -41,35 +32,8 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
-	},
-	{
-		"key": "sb",
-		"value": "njYrad3OJmCCtpZ-srSjeIQy",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
-	},
-	{
-		"key": "wd",
-		"value": "1920x965",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
-	},
-	{
-		"key": "dpr",
-		"value": "0.8955223880597015",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
+		"creation": "2025-11-30T18:34:25.436Z",
+		"lastAccessed": "2025-11-30T18:34:25.436Z"
 	},
 	{
 		"key": "c_user",
@@ -77,25 +41,43 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
+		"creation": "2025-11-30T18:34:25.436Z",
+		"lastAccessed": "2025-11-30T18:34:25.436Z"
+	},
+	{
+		"key": "wd",
+		"value": "1920x963",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-30T18:34:25.436Z",
+		"lastAccessed": "2025-11-30T18:34:25.436Z"
+	},
+	{
+		"key": "fr",
+		"value": "1elIiyZJTYw6A5Y5N.AWe8Rfya2vivnPoINSle0wMMRtAIREkRVM-FTdChm7hb0NSJsUg.BpLI4Z..AAA.0.0.BpLI4Z.AWf8uz-8BGg8dINeZEA_v8skdyA",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-30T18:34:25.436Z",
+		"lastAccessed": "2025-11-30T18:34:25.436Z"
 	},
 	{
 		"key": "xs",
-		"value": "13%3ArtzZJqBNujjkyg%3A2%3A1764526177%3A-1%3A-1%3A%3AAcwfqCeANzYhvue_HrJQ28buQcRDUP4mSy-0dwIAjg",
+		"value": "34%3AxjS1YRzMXM6vCQ%3A2%3A1764527529%3A-1%3A-1%3A%3AAcw4oaz4feFhiIl1R3SYthPaxTuIIcChKXPBJP7BcQ",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
+		"creation": "2025-11-30T18:34:25.436Z",
+		"lastAccessed": "2025-11-30T18:34:25.436Z"
 	},
 	{
 		"key": "presence",
-		"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1764526377257%2C%22v%22%3A1%7D",
+		"value": "C%7B%22lm3%22%3A%22g.2056837628192036%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1764527643072%2C%22v%22%3A1%7D",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2025-11-30T18:12:58.188Z",
-		"lastAccessed": "2025-11-30T18:12:58.188Z"
+		"creation": "2025-11-30T18:34:25.436Z",
+		"lastAccessed": "2025-11-30T18:34:25.436Z"
 	}
 ]
